@@ -26,6 +26,7 @@ Atualmente, estou sempre buscando evoluir minhas habilidades e aprender novas te
 
 * Node.js
 * Express
+* Typescript
 
 # 🗄️ Bancos de Dados
 
