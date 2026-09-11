@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bruno Siqueira!
 
-# 💻 Desenvolvedor Full Stack
+## 💻 Desenvolvedor Full Stack
 
 Sou desenvolvedor Full Stack, apaixonado por tecnologia e por transformar ideias em aplicações reais.
 
@@ -24,7 +24,6 @@ Atualmente, estou sempre buscando evoluir minhas habilidades e aprender novas te
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,javascript)](https://skillicons.dev)
 
-* Typescript
 * Node.js
 * Express
 
@@ -37,12 +36,13 @@ Atualmente, estou sempre buscando evoluir minhas habilidades e aprender novas te
 * MongoDB
 * SQL
 
-# 🔧 Ferramentas
+### 🔧 Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,postman)](https://skillicons.dev)
 
 * Git
 * GitHub
+* GitLab
 * Postman
 
 # 🚀 O que eu faço
