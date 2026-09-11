@@ -24,6 +24,7 @@ Atualmente, estou sempre buscando evoluir minhas habilidades e aprender novas te
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,javascript)](https://skillicons.dev)
 
+* Typescript
 * Node.js
 * Express
 
