@@ -1,6 +1,6 @@
- Olá, eu sou o Bruno Siqueira!
+# 👋 Olá, eu sou o Bruno Siqueira!
 
- Desenvolvedor Full Stack
+# 💻 Desenvolvedor Full Stack
 
 Sou desenvolvedor Full Stack, apaixonado por tecnologia e por transformar ideias em aplicações reais.
 
@@ -8,13 +8,11 @@ Tenho experiência no desenvolvimento de aplicações **web e mobile**, trabalha
 
 Atualmente, estou sempre buscando evoluir minhas habilidades e aprender novas tecnologias para criar soluções cada vez melhores. 🚀
 
-
-
 # 🛠️ Tecnologias
 
 # 💻 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react)](https://skillicons.dev)
 
 # 📱 Mobile
 
@@ -24,9 +22,10 @@ Atualmente, estou sempre buscando evoluir minhas habilidades e aprender novas te
 
 # ⚙️ Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,express,javascript)](https://skillicons.dev)
 
 * Node.js
+* Express
 
 # 🗄️ Bancos de Dados
 
@@ -37,14 +36,13 @@ Atualmente, estou sempre buscando evoluir minhas habilidades e aprender novas te
 * MongoDB
 * SQL
 
-### 🔧 Ferramentas
+# 🔧 Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 * Git
 * GitHub
-
-
+* Postman
 
 # 🚀 O que eu faço
 
@@ -53,13 +51,3 @@ Atualmente, estou sempre buscando evoluir minhas habilidades e aprender novas te
 * ⚙️ Desenvolvimento de APIs e Back-end
 * 🔗 Integração entre sistemas e APIs
 * 🏗️ Desenvolvimento de aplicações Full Stack
-
-
-
-
-
-
-
-
-
-
